@@ -10,7 +10,7 @@ def partition(l, r, nums):
     nums[ptr], nums[r] = nums[r], nums[ptr]
     return ptr
  
-# With quicksort() function, we will be utilizing the above code to obtain the pointer
+
 
  
  
